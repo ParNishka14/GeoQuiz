@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="quiz">Quiz</string>
+    <string name="points">Your points:</string>
+</resources>

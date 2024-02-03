@@ -20,7 +20,6 @@ class QuizViewModel : ViewModel() {
      var points:Int = 0
 }
 
-
 class MainActivity : AppCompatActivity() {
     private val quizViewModel: QuizViewModel by lazy {
         ViewModelProviders.of(this).get(QuizViewModel::class.java)
